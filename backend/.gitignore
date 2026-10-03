@@ -1,0 +1,6 @@
+node_modules/
+.env
+.env.*
+uploads/*.pdf
+uploads/*.docx
+!uploads/.gitkeep
